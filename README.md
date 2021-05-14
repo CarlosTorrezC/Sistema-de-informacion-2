@@ -1,2 +1,2 @@
 # Sistema-de-informacion-2
-SISTEMA DE INFORMACION PARA LA GESTION DE COMERCIO ELECTRONICO
+Wireframe, Database script, etc, it's inside doc.
